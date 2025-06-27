@@ -1,0 +1,248 @@
+{
+  "openai.com": {
+    "name": "OpenAI",
+    "domain": "openai.com",
+    "category": {"industry": "AI Research"},
+    "metrics": {"employees": ">1000", "raised": "$11B+"},
+    "location": "San Francisco, CA"
+  },
+  "notion.so": {
+    "name": "Notion",
+    "domain": "notion.so",
+    "category": {"industry": "Productivity Software"},
+    "metrics": {"employees": "200-500", "raised": "$350M"},
+    "location": "San Francisco, CA"
+  },
+  "zapier.com": {
+    "name": "Zapier",
+    "domain": "zapier.com",
+    "category": {"industry": "Automation SaaS"},
+    "metrics": {"employees": "500-1000", "raised": "$1.3B"},
+    "location": "Remote"
+  },
+  "figma.com": {
+    "name": "Figma",
+    "domain": "figma.com",
+    "category": {"industry": "Design Collaboration"},
+    "metrics": {"employees": "500-1000", "raised": "$332M"},
+    "location": "San Francisco, CA"
+  },
+  "loom.com": {
+    "name": "Loom",
+    "domain": "loom.com",
+    "category": {"industry": "Video Messaging"},
+    "metrics": {"employees": "100-200", "raised": "$203M"},
+    "location": "San Francisco, CA"
+  },
+  "stripe.com": {
+    "name": "Stripe",
+    "domain": "stripe.com",
+    "category": {"industry": "FinTech"},
+    "metrics": {"employees": ">1000", "raised": "$8.7B"},
+    "location": "San Francisco, CA"
+  },
+  "airtable.com": {
+    "name": "Airtable",
+    "domain": "airtable.com",
+    "category": {"industry": "Low-code Tools"},
+    "metrics": {"employees": "500-1000", "raised": "$1.4B"},
+    "location": "San Francisco, CA"
+  },
+  "miro.com": {
+    "name": "Miro",
+    "domain": "miro.com",
+    "category": {"industry": "Visual Collaboration"},
+    "metrics": {"employees": "500-1000", "raised": "$476M"},
+    "location": "Amsterdam, Netherlands"
+  },
+  "clickup.com": {
+    "name": "ClickUp",
+    "domain": "clickup.com",
+    "category": {"industry": "Project Management"},
+    "metrics": {"employees": "500-1000", "raised": "$537M"},
+    "location": "San Diego, CA"
+  },
+  "retool.com": {
+    "name": "Retool",
+    "domain": "retool.com",
+    "category": {"industry": "Internal Tooling"},
+    "metrics": {"employees": "200-500", "raised": "$97M"},
+    "location": "San Francisco, CA"
+  },
+  "carta.com": {
+    "name": "Carta",
+    "domain": "carta.com",
+    "category": {"industry": "Cap Table Management"},
+    "metrics": {"employees": ">1000", "raised": "$1.2B"},
+    "location": "San Francisco, CA"
+  },
+  "webflow.com": {
+    "name": "Webflow",
+    "domain": "webflow.com",
+    "category": {"industry": "No-code Website Builder"},
+    "metrics": {"employees": "200-500", "raised": "$335M"},
+    "location": "San Francisco, CA"
+  },
+  "helicon.ai": {
+    "name": "Helicon",
+    "domain": "helicon.ai",
+    "category": {"industry": "Generative AI"},
+    "metrics": {"employees": "50-100", "raised": "$32M"},
+    "location": "Boston, MA"
+  },
+  "eightfold.ai": {
+    "name": "Eightfold",
+    "domain": "eightfold.ai",
+    "category": {"industry": "HR Tech AI"},
+    "metrics": {"employees": "200-500", "raised": "$400M"},
+    "location": "Mountain View, CA"
+  },
+  "scale.com": {
+    "name": "Scale AI",
+    "domain": "scale.com",
+    "category": {"industry": "AI Infrastructure"},
+    "metrics": {"employees": ">1000", "raised": "$600M"},
+    "location": "San Francisco, CA"
+  },
+  "dovetailapp.com": {
+    "name": "Dovetail",
+    "domain": "dovetailapp.com",
+    "category": {"industry": "UX Research"},
+    "metrics": {"employees": "100-200", "raised": "$63M"},
+    "location": "Sydney, Australia"
+  },
+  "linear.app": {
+    "name": "Linear",
+    "domain": "linear.app",
+    "category": {"industry": "Engineering Management"},
+    "metrics": {"employees": "50-100", "raised": "$35M"},
+    "location": "Remote"
+  },
+  "cal.com": {
+    "name": "Cal",
+    "domain": "cal.com",
+    "category": {"industry": "Scheduling"},
+    "metrics": {"employees": "10-50", "raised": "$25M"},
+    "location": "Remote"
+  },
+  "hightouch.io": {
+    "name": "Hightouch",
+    "domain": "hightouch.io",
+    "category": {"industry": "Reverse ETL"},
+    "metrics": {"employees": "100-200", "raised": "$90M"},
+    "location": "San Francisco, CA"
+  },
+  "algolia.com": {
+    "name": "Algolia",
+    "domain": "algolia.com",
+    "category": {"industry": "Search-as-a-Service"},
+    "metrics": {"employees": "500-1000", "raised": "$334M"},
+    "location": "Paris, France"
+  },
+  "freshworks.com": {
+    "name": "Freshworks",
+    "domain": "freshworks.com",
+    "category": {"industry": "Customer Engagement"},
+    "metrics": {"employees": ">1000", "raised": "$484M"},
+    "location": "San Mateo, CA"
+  },
+  "instabase.com": {
+    "name": "Instabase",
+    "domain": "instabase.com",
+    "category": {"industry": "AI Automation"},
+    "metrics": {"employees": "200-500", "raised": "$132M"},
+    "location": "San Francisco, CA"
+  },
+  "postman.com": {
+    "name": "Postman",
+    "domain": "postman.com",
+    "category": {"industry": "API Development"},
+    "metrics": {"employees": "500-1000", "raised": "$433M"},
+    "location": "Bangalore, India"
+  },
+  "vercel.com": {
+    "name": "Vercel",
+    "domain": "vercel.com",
+    "category": {"industry": "Frontend DevOps"},
+    "metrics": {"employees": "200-500", "raised": "$312M"},
+    "location": "San Francisco, CA"
+  },
+  "supabase.com": {
+    "name": "Supabase",
+    "domain": "supabase.com",
+    "category": {"industry": "Open Source Backend"},
+    "metrics": {"employees": "50-100", "raised": "$116M"},
+    "location": "Singapore"
+  },
+  "mux.com": {
+    "name": "Mux",
+    "domain": "mux.com",
+    "category": {"industry": "Video Infrastructure"},
+    "metrics": {"employees": "100-200", "raised": "$105M"},
+    "location": "San Francisco, CA"
+  },
+  "clerk.dev": {
+    "name": "Clerk",
+    "domain": "clerk.dev",
+    "category": {"industry": "Authentication SaaS"},
+    "metrics": {"employees": "10-50", "raised": "$35M"},
+    "location": "Remote"
+  },
+  "abnormal.security": {
+    "name": "Abnormal Security",
+    "domain": "abnormal.security",
+    "category": {"industry": "Email Security AI"},
+    "metrics": {"employees": "200-500", "raised": "$284M"},
+    "location": "San Francisco, CA"
+  },
+  "hex.tech": {
+    "name": "Hex",
+    "domain": "hex.tech",
+    "category": {"industry": "Data Science Notebooks"},
+    "metrics": {"employees": "50-100", "raised": "$100M"},
+    "location": "San Francisco, CA"
+  },
+  "n8n.io": {
+    "name": "n8n",
+    "domain": "n8n.io",
+    "category": {"industry": "Workflow Automation"},
+    "metrics": {"employees": "10-50", "raised": "$15M"},
+    "location": "Berlin, Germany"
+  },
+  "grammarly.com": {
+    "name": "Grammarly",
+    "domain": "grammarly.com",
+    "category": {"industry": "AI Writing Assistant"},
+    "metrics": {"employees": ">1000", "raised": "$400M"},
+    "location": "San Francisco, CA"
+  },
+  "runwayml.com": {
+    "name": "Runway",
+    "domain": "runwayml.com",
+    "category": {"industry": "Generative Video AI"},
+    "metrics": {"employees": "100-200", "raised": "$236M"},
+    "location": "New York, NY"
+  },
+  "assemblyai.com": {
+    "name": "AssemblyAI",
+    "domain": "assemblyai.com",
+    "category": {"industry": "Speech Recognition API"},
+    "metrics": {"employees": "50-100", "raised": "$63M"},
+    "location": "Remote"
+  },
+  "snyk.io": {
+    "name": "Snyk",
+    "domain": "snyk.io",
+    "category": {"industry": "DevSecOps"},
+    "metrics": {"employees": ">1000", "raised": "$1.4B"},
+    "location": "Boston, MA"
+  },
+  "datasaur.ai": {
+    "name": "Datasaur",
+    "domain": "datasaur.ai",
+    "category": {"industry": "Data Labeling"},
+    "metrics": {"employees": "10-50", "raised": "$7M"},
+    "location": "Indonesia"
+  }
+
+}
