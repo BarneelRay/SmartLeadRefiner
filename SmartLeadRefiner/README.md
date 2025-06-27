@@ -24,7 +24,6 @@ SmartLeadRefiner/
 │   └── leads_scored.csv
 ├── report/
 │   └── rationale.md
-├── SmartLeadRefiner.ipynb  # Notebook demo version
 ├── main_pipeline.py        # Run full process as script
 ├── requirements.txt
 └── README.md
